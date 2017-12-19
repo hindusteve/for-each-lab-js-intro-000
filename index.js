@@ -1,8 +1,9 @@
-function iterativeLog(array) {
+/*function iterativeLog(array) {
   array.forEach(test => {
     console.log(`${index}: ${element}`);
   });
 }
+*/
 
 function iterate(callback) {
   var myHomes = ['Huntsville', 'Seattle', 'Washington D.C.']
